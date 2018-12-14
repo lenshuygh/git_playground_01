@@ -5,5 +5,6 @@ public class TestGit01 {
         System.out.println("this is the first class");
         LinuxClass01 linuxClass01 = new LinuxClass01();
         OsxClassAfterNonPulledLinuxClass osxClassAfterNonPulledLinuxClass = new OsxClassAfterNonPulledLinuxClass();
+        Brnch01 brnch01 = new Brnch01();
     }
 }
