@@ -6,5 +6,6 @@ public class TestGit01 {
         LinuxClass01 linuxClass01 = new LinuxClass01();
         OsxClassAfterNonPulledLinuxClass osxClassAfterNonPulledLinuxClass = new OsxClassAfterNonPulledLinuxClass();
         Brnch02 brnch02 = new Brnch02();
+        Brnch01 brnch01 = new Brnch01();
     }
 }
